@@ -1,0 +1,10 @@
+site_name: MkDocs
+theme:
+  name: material
+pages:
+  - Blockchain:
+    - Truffle Boilerplate: blockchain/truffle-boilerlate.md
+markdown_extensions:
+  - admonition
+docs_dir: docs
+dev_addr: 0.0.0.0:8000
